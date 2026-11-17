@@ -1,0 +1,421 @@
+learner_id,age,gender,course,enrolled_month,total_lessons,lessons_completed,watch_hours,quiz_attempts,avg_quiz_score,assignments_submitted,satisfaction_rating,final_score,completion_status
+LRN-001,20,Male,Excel for Business,Nov,45,13,5.67,3,60.83,1,2,59.94,Dropped
+LRN-002,39,Male,Web Development,Sep,65,51,40.34,16,89.72,8,4,95.76,In Progress
+LRN-003,36,Female,Python Basics,Mar,40,38,22.88,14,85.96,7,4,91.31,Completed
+LRN-004,30,Male,Data Analysis with Pandas,Feb,55,35,23.52,20,71.68,4,4,76.17,In Progress
+LRN-005,30,Male,Python Basics,Nov,40,18,13.24,5,49.52,3,4,59.79,In Progress
+LRN-006,42,Male,Python Basics,Apr,40,26,9.36,8,64.13,2,4,60.69,In Progress
+LRN-007,20,Female,Web Development,Oct,65,36,21.57,18,54.23,3,3,71.86,In Progress
+LRN-008,37,Female,Web Development,Feb,65,56,26.11,18,63.25,6,5,85.86,In Progress
+LRN-009,23,Male,Web Development,Apr,65,20,2.58,8,53.86,3,3,61.97,Dropped
+LRN-010,20,Female,Excel for Business,Apr,45,30,6.91,6,67.66,6,3,71.3,In Progress
+LRN-011,32,Female,Web Development,Apr,65,47,17.76,17,74.6,6,4,92.64,In Progress
+LRN-012,45,Male,Web Development,Sep,65,20,13.53,5,57.84,2,2,58.19,Dropped
+LRN-013,38,Male,Python Basics,Nov,40,34,18.86,9,75.1,6,5,80.04,In Progress
+LRN-014,39,Male,Python Basics,Nov,40,25,12.99,13,58.8,7,4,67.5,In Progress
+LRN-015,38,Female,Machine Learning,Sep,80,35,29.08,12,64.43,6,3,63.41,In Progress
+LRN-016,40,Male,Excel for Business,Mar,45,7,2.86,4,37.47,2,2,56.5,Dropped
+LRN-017,32,Female,Python Basics,Dec,40,4,2.67,2,32.72,2,3,52.59,Dropped
+LRN-018,21,Male,Machine Learning,Jul,80,57,36.77,22,76.76,4,5,89.28,In Progress
+LRN-019,41,Male,Web Development,Jul,65,60,25.37,22,69.54,6,4,82.35,Completed
+LRN-020,30,Female,Python Basics,Sep,40,14,7.65,6,60.65,3,3,72.34,In Progress
+LRN-021,32,Female,Data Analysis with Pandas,Oct,55,27,9.01,3,65.78,3,3,65.16,In Progress
+LRN-022,28,Female,Excel for Business,Dec,45,17,12.91,5,54.09,5,3,61.98,In Progress
+LRN-023,23,Male,Web Development,Jul,65,23,9.55,10,57.49,1,2,68.29,In Progress
+LRN-024,43,Male,Python Basics,Aug,40,17,12.21,5,53.74,4,3,67.76,In Progress
+LRN-025,39,Male,Excel for Business,Sep,45,39,20.49,16,63.78,11,5,100.0,In Progress
+LRN-026,36,Male,Data Analysis with Pandas,Apr,55,52,35.01,21,82.47,10,4,99.56,Completed
+LRN-027,29,Female,Excel for Business,Apr,45,40,19.09,13,69.0,6,4,82.36,In Progress
+LRN-028,41,Male,Data Analysis with Pandas,Aug,55,18,8.62,4,50.33,2,2,53.77,Dropped
+LRN-029,33,Female,Machine Learning,Jan,80,59,25.71,21,84.65,6,4,75.78,In Progress
+LRN-030,30,Female,Data Analysis with Pandas,Apr,55,42,24.73,21,59.54,5,5,77.8,In Progress
+LRN-031,30,Male,Data Analysis with Pandas,Sep,55,51,31.38,15,82.87,10,5,100.0,Completed
+LRN-032,24,Male,Excel for Business,Dec,45,21,7.72,7,52.87,6,4,68.58,In Progress
+LRN-033,20,Female,Python Basics,Jul,40,22,11.3,8,68.12,5,3,71.98,In Progress
+LRN-034,33,Male,Python Basics,May,40,22,7.3,11,60.03,2,3,60.03,In Progress
+LRN-035,42,Male,Data Analysis with Pandas,Jun,55,32,27.9,11,71.57,7,3,81.66,In Progress
+LRN-036,19,Male,Web Development,Sep,65,27,15.09,12,52.35,4,3,70.09,In Progress
+LRN-037,42,Male,Web Development,Jul,65,38,30.95,17,61.77,4,4,78.73,In Progress
+LRN-038,41,Female,Excel for Business,Jan,45,9,3.62,2,57.5,4,3,56.99,Dropped
+LRN-039,25,Female,Data Analysis with Pandas,Jul,55,20,13.36,6,69.74,4,3,62.13,In Progress
+LRN-040,35,Female,Data Analysis with Pandas,May,55,30,8.28,10,63.28,4,3,73.88,In Progress
+LRN-041,22,Male,Python Basics,Sep,40,24,9.72,8,57.04,6,3,51.7,In Progress
+LRN-042,39,Male,Machine Learning,Nov,80,57,34.21,25,75.93,7,5,89.37,In Progress
+LRN-043,37,Female,Excel for Business,Dec,45,38,32.45,15,93.86,8,4,100.0,In Progress
+LRN-044,27,Female,Web Development,Aug,65,23,14.16,8,56.27,2,3,52.46,In Progress
+LRN-045,19,Female,Machine Learning,May,80,29,21.91,8,68.14,2,3,65.95,In Progress
+LRN-046,45,Male,Data Analysis with Pandas,Jun,55,33,18.03,8,60.47,6,3,73.89,In Progress
+LRN-047,30,Male,Excel for Business,Mar,45,30,20.79,16,68.49,7,2,76.91,In Progress
+LRN-048,43,Female,Machine Learning,Dec,80,20,11.02,7,56.72,2,2,64.01,Dropped
+LRN-049,36,Female,Python Basics,Nov,40,26,23.08,5,70.05,5,5,81.57,In Progress
+LRN-050,39,Male,Data Analysis with Pandas,Nov,55,50,22.2,24,70.05,8,5,89.04,Completed
+LRN-051,39,Female,Python Basics,Apr,40,24,10.54,10,56.08,4,4,73.65,In Progress
+LRN-052,23,Male,Python Basics,Apr,40,33,12.33,12,76.82,7,5,84.01,In Progress
+LRN-053,28,Female,Python Basics,Nov,40,15,14.91,6,66.37,4,3,85.84,In Progress
+LRN-054,31,Female,Data Analysis with Pandas,Jul,55,22,15.01,9,68.29,3,3,68.13,In Progress
+LRN-055,31,Male,Machine Learning,Sep,80,30,16.84,10,70.29,3,3,68.81,In Progress
+LRN-056,19,Female,Data Analysis with Pandas,Jun,55,21,15.5,5,59.28,4,2,54.88,In Progress
+LRN-057,33,Female,Data Analysis with Pandas,Jun,55,30,19.42,11,61.76,5,3,69.13,In Progress
+LRN-058,22,Female,Excel for Business,Aug,45,24,21.87,9,73.82,5,2,83.05,In Progress
+LRN-059,38,Female,Web Development,Oct,65,23,5.84,13,60.01,4,3,53.65,In Progress
+LRN-060,37,Female,Machine Learning,May,80,70,39.94,24,72.75,8,4,80.31,In Progress
+LRN-061,43,Female,Data Analysis with Pandas,Oct,55,6,3.45,0,38.13,0,1,44.96,Dropped
+LRN-062,38,Female,Excel for Business,Mar,45,39,10.48,12,71.04,4,4,88.73,In Progress
+LRN-063,28,Female,Python Basics,May,40,29,21.35,18,66.29,4,4,78.72,In Progress
+LRN-064,45,Male,Data Analysis with Pandas,Nov,55,44,25.23,20,71.88,6,5,82.88,In Progress
+LRN-065,29,Male,Excel for Business,Dec,45,12,9.12,3,60.63,3,4,48.43,Dropped
+LRN-066,27,Female,Machine Learning,Dec,80,66,57.25,26,86.89,6,3,100.0,In Progress
+LRN-067,43,Female,Web Development,Apr,65,43,23.48,11,80.54,9,4,89.28,In Progress
+LRN-068,28,Male,Machine Learning,Nov,80,40,18.96,9,47.49,3,2,54.69,In Progress
+LRN-069,20,Male,Machine Learning,Dec,80,44,25.14,16,67.41,5,4,82.63,In Progress
+LRN-070,31,Male,Data Analysis with Pandas,Dec,55,31,19.72,12,67.48,3,4,77.59,In Progress
+LRN-071,40,Female,Data Analysis with Pandas,Jan,55,53,25.43,8,67.74,9,4,97.57,Completed
+LRN-072,23,Female,Data Analysis with Pandas,Sep,55,21,8.59,6,50.02,2,3,62.37,In Progress
+LRN-073,30,Female,Python Basics,Dec,40,14,10.07,5,50.24,4,2,64.01,In Progress
+LRN-074,21,Female,Excel for Business,Oct,45,20,11.71,6,59.71,5,4,69.8,In Progress
+LRN-075,37,Male,Data Analysis with Pandas,Mar,55,48,14.57,18,86.57,11,5,97.06,In Progress
+LRN-076,31,Female,Machine Learning,Oct,80,14,8.1,5,64.98,3,2,47.01,Dropped
+LRN-077,27,Female,Web Development,Feb,65,48,37.28,18,68.38,6,2,76.8,In Progress
+LRN-078,24,Female,Web Development,Jun,65,48,29.39,12,74.66,5,4,79.98,In Progress
+LRN-079,33,Male,Data Analysis with Pandas,Aug,55,44,18.61,22,75.92,8,5,84.86,In Progress
+LRN-080,36,Female,Machine Learning,Jun,80,54,29.98,9,74.26,7,5,86.61,In Progress
+LRN-081,44,Male,Excel for Business,Sep,45,33,17.72,10,73.99,9,3,85.71,In Progress
+LRN-082,30,Female,Web Development,Mar,65,55,35.69,21,82.63,11,4,100.0,In Progress
+LRN-083,22,Male,Web Development,Aug,65,28,11.16,14,68.22,2,2,73.0,In Progress
+LRN-084,41,Female,Excel for Business,Aug,45,13,4.7,5,60.99,4,3,54.54,Dropped
+LRN-085,35,Male,Web Development,Aug,65,56,33.04,23,69.08,7,5,90.41,In Progress
+LRN-086,37,Male,Python Basics,Apr,40,27,12.07,9,71.2,6,3,72.17,In Progress
+LRN-087,20,Male,Machine Learning,Apr,80,58,37.93,13,82.92,9,4,90.97,In Progress
+LRN-088,26,Male,Python Basics,Apr,40,5,4.74,1,50.08,2,1,52.48,Dropped
+LRN-089,39,Male,Machine Learning,Jun,80,67,41.52,17,86.27,7,4,75.21,In Progress
+LRN-090,41,Male,Excel for Business,Aug,45,16,13.61,4,57.65,3,3,77.05,In Progress
+LRN-091,30,Male,Machine Learning,May,80,68,41.1,27,81.71,9,5,99.61,In Progress
+LRN-092,40,Female,Data Analysis with Pandas,May,55,52,30.04,12,81.96,11,4,93.66,Completed
+LRN-093,41,Male,Python Basics,Apr,40,30,14.65,11,52.98,5,4,85.79,In Progress
+LRN-094,28,Male,Excel for Business,Mar,45,26,10.7,7,58.95,2,4,65.41,In Progress
+LRN-095,43,Male,Python Basics,Aug,40,20,11.94,7,55.27,4,2,67.05,In Progress
+LRN-096,26,Female,Python Basics,Oct,40,15,11.24,4,49.59,5,3,58.83,In Progress
+LRN-097,24,Female,Data Analysis with Pandas,Apr,55,21,9.06,11,66.57,4,3,75.16,In Progress
+LRN-098,37,Male,Python Basics,Nov,40,20,6.36,7,63.71,6,4,67.92,In Progress
+LRN-099,35,Female,Data Analysis with Pandas,Jul,55,48,20.78,22,76.71,11,4,91.85,In Progress
+LRN-100,21,Female,Machine Learning,Mar,80,31,18.72,9,54.51,3,3,71.35,In Progress
+LRN-101,41,Female,Data Analysis with Pandas,May,55,42,23.84,15,74.75,8,5,89.38,In Progress
+LRN-102,23,Female,Python Basics,Jan,40,31,21.35,8,78.27,7,3,85.29,In Progress
+LRN-103,40,Female,Python Basics,Jan,40,12,4.7,6,47.73,4,2,63.03,Dropped
+LRN-104,18,Female,Data Analysis with Pandas,May,55,37,27.42,12,71.64,8,4,98.75,In Progress
+LRN-105,40,Female,Python Basics,Jun,40,29,23.55,6,76.02,6,4,85.35,In Progress
+LRN-106,40,Female,Web Development,Oct,65,33,20.76,8,49.03,4,4,68.07,In Progress
+LRN-107,39,Female,Python Basics,Feb,40,35,13.89,7,68.34,4,5,82.03,In Progress
+LRN-108,36,Male,Data Analysis with Pandas,Nov,55,40,18.22,5,65.5,6,4,86.83,In Progress
+LRN-109,31,Female,Data Analysis with Pandas,Mar,55,36,20.22,9,67.42,7,4,75.28,In Progress
+LRN-110,37,Male,Data Analysis with Pandas,Feb,55,37,15.88,15,62.24,5,5,73.36,In Progress
+LRN-111,25,Male,Python Basics,Sep,40,34,13.81,6,71.83,7,4,74.43,In Progress
+LRN-112,39,Male,Python Basics,Oct,40,15,4.05,4,67.55,3,3,55.93,In Progress
+LRN-113,33,Female,Excel for Business,Aug,45,27,12.59,14,60.96,5,3,68.54,In Progress
+LRN-114,30,Male,Python Basics,Feb,40,28,14.29,7,69.74,7,4,78.68,In Progress
+LRN-115,32,Male,Machine Learning,Feb,80,55,27.67,24,86.04,8,3,98.66,In Progress
+LRN-116,33,Male,Machine Learning,May,80,23,15.97,9,53.45,5,3,65.02,Dropped
+LRN-117,19,Male,Data Analysis with Pandas,Jun,55,40,24.53,17,83.87,7,3,81.33,In Progress
+LRN-118,21,Male,Data Analysis with Pandas,Dec,55,2,3.3,0,43.76,0,2,39.89,Dropped
+LRN-119,24,Male,Web Development,Apr,65,44,27.29,14,82.41,6,4,93.26,In Progress
+LRN-120,21,Female,Web Development,Mar,65,8,5.36,1,53.26,2,2,58.33,Dropped
+LRN-121,30,Male,Data Analysis with Pandas,Dec,55,40,23.65,23,72.17,6,5,82.63,In Progress
+LRN-122,36,Female,Data Analysis with Pandas,Feb,55,38,23.46,8,66.91,4,4,75.66,In Progress
+LRN-123,36,Male,Data Analysis with Pandas,Jan,55,45,28.09,12,68.0,5,4,91.12,In Progress
+LRN-124,31,Male,Machine Learning,Jun,80,39,33.73,10,67.2,5,4,70.63,In Progress
+LRN-125,41,Female,Web Development,May,65,57,23.77,10,83.23,10,4,95.34,In Progress
+LRN-126,33,Male,Python Basics,Aug,40,30,18.55,16,70.8,8,4,96.42,In Progress
+LRN-127,20,Female,Data Analysis with Pandas,Nov,55,19,9.61,10,51.87,2,2,59.91,Dropped
+LRN-128,39,Male,Excel for Business,Dec,45,23,6.81,8,58.79,6,4,62.96,In Progress
+LRN-129,34,Female,Python Basics,Apr,40,19,13.01,5,64.84,2,3,69.42,In Progress
+LRN-130,35,Male,Data Analysis with Pandas,Dec,55,34,27.33,5,75.43,4,4,77.01,In Progress
+LRN-131,33,Female,Web Development,Aug,65,21,8.79,6,50.5,4,2,50.66,Dropped
+LRN-132,33,Male,Python Basics,Jan,40,31,18.51,10,66.75,8,4,86.55,In Progress
+LRN-133,20,Male,Python Basics,Dec,40,16,6.28,4,57.91,3,3,68.41,In Progress
+LRN-134,33,Male,Python Basics,Feb,40,12,3.99,4,62.21,2,3,56.75,Dropped
+LRN-135,40,Male,Excel for Business,Aug,45,23,17.16,9,69.67,4,3,69.9,In Progress
+LRN-136,26,Male,Python Basics,Oct,40,31,14.52,10,60.65,7,4,72.87,In Progress
+LRN-137,34,Male,Python Basics,Mar,40,15,7.74,6,51.47,1,3,57.13,In Progress
+LRN-138,18,Female,Python Basics,Apr,40,33,20.24,8,65.6,7,4,79.77,In Progress
+LRN-139,27,Male,Python Basics,Jun,40,38,16.14,15,71.85,7,4,81.09,Completed
+LRN-140,30,Female,Machine Learning,Nov,80,59,28.53,20,83.74,7,4,99.61,In Progress
+LRN-141,45,Male,Data Analysis with Pandas,Mar,55,34,24.94,15,58.03,6,4,78.64,In Progress
+LRN-142,24,Female,Machine Learning,Aug,80,53,19.64,22,57.04,7,4,79.45,In Progress
+LRN-143,25,Male,Machine Learning,Jun,80,60,25.52,10,62.55,3,5,83.87,In Progress
+LRN-144,29,Male,Web Development,Feb,65,62,36.35,13,85.07,11,5,100.0,Completed
+LRN-145,45,Female,Python Basics,Sep,40,28,17.92,8,72.16,6,4,77.5,In Progress
+LRN-146,41,Male,Excel for Business,Oct,45,35,26.52,8,75.0,6,4,87.17,In Progress
+LRN-147,18,Male,Machine Learning,Jul,80,48,19.52,19,72.5,4,3,74.54,In Progress
+LRN-148,24,Male,Python Basics,Mar,40,30,19.78,12,57.1,6,3,80.35,In Progress
+LRN-149,41,Male,Web Development,Feb,65,34,16.31,14,69.09,3,3,73.34,In Progress
+LRN-150,19,Male,Excel for Business,Jun,45,30,25.25,11,66.05,5,4,76.44,In Progress
+LRN-151,41,Male,Data Analysis with Pandas,Jul,55,23,8.28,8,63.14,5,3,57.9,In Progress
+LRN-152,25,Female,Excel for Business,Jul,45,39,29.89,19,65.57,6,4,87.27,In Progress
+LRN-153,43,Female,Data Analysis with Pandas,Mar,55,14,6.23,5,53.88,5,3,56.86,Dropped
+LRN-154,26,Female,Machine Learning,Jul,80,40,34.1,14,66.9,3,4,64.02,In Progress
+LRN-155,30,Male,Excel for Business,Apr,45,12,8.65,8,61.98,4,3,63.66,Dropped
+LRN-156,36,Female,Data Analysis with Pandas,Sep,55,32,11.63,12,52.36,6,3,75.03,In Progress
+LRN-157,21,Male,Web Development,Oct,65,46,21.76,15,69.28,6,4,95.71,In Progress
+LRN-158,33,Male,Data Analysis with Pandas,Aug,55,36,23.55,9,61.7,7,5,75.92,In Progress
+LRN-159,32,Female,Web Development,Jan,65,51,33.72,21,79.44,8,4,87.5,In Progress
+LRN-160,39,Male,Machine Learning,Dec,80,5,1.32,0,49.18,0,2,39.26,Dropped
+LRN-161,45,Male,Python Basics,Jan,40,4,4.58,2,55.39,1,2,51.74,Dropped
+LRN-162,36,Female,Data Analysis with Pandas,Dec,55,31,21.15,15,61.08,5,4,74.44,In Progress
+LRN-163,29,Female,Data Analysis with Pandas,Jan,55,29,14.54,4,66.86,3,3,65.38,In Progress
+LRN-164,29,Female,Python Basics,Jul,40,38,11.22,13,84.57,10,5,90.59,Completed
+LRN-165,29,Female,Python Basics,Feb,40,16,6.68,6,46.57,6,3,49.17,In Progress
+LRN-166,40,Female,Data Analysis with Pandas,Feb,55,11,8.78,1,54.04,1,2,59.72,Dropped
+LRN-167,26,Male,Python Basics,Sep,40,33,23.89,19,79.85,7,4,83.6,In Progress
+LRN-168,22,Female,Python Basics,Sep,40,21,18.6,6,60.55,4,3,70.23,In Progress
+LRN-169,27,Female,Web Development,Feb,65,32,21.87,12,54.08,4,2,60.13,In Progress
+LRN-170,18,Male,Web Development,Dec,65,10,6.64,4,54.74,1,2,48.93,Dropped
+LRN-171,20,Male,Web Development,Apr,65,60,37.74,7,74.38,11,5,95.11,Completed
+LRN-172,20,Male,Data Analysis with Pandas,Apr,55,14,7.71,2,49.41,1,2,54.01,Dropped
+LRN-173,39,Male,Excel for Business,Apr,45,13,6.35,6,53.45,4,2,61.04,Dropped
+LRN-174,38,Female,Machine Learning,Jun,80,75,33.27,21,86.85,11,5,100.0,Completed
+LRN-175,37,Female,Python Basics,Mar,40,17,4.94,3,51.05,3,2,64.47,In Progress
+LRN-176,30,Male,Python Basics,Jun,40,24,14.67,13,59.91,6,4,78.55,In Progress
+LRN-177,38,Male,Web Development,Mar,65,10,6.31,5,48.74,1,3,59.32,Dropped
+LRN-178,22,Male,Python Basics,Jan,40,31,20.02,13,78.0,7,4,88.56,In Progress
+LRN-179,43,Female,Machine Learning,May,80,56,35.99,16,87.99,5,4,88.82,In Progress
+LRN-180,32,Male,Excel for Business,Sep,45,29,16.61,10,55.68,6,4,79.47,In Progress
+LRN-181,44,Male,Python Basics,Oct,40,18,10.43,4,57.93,1,2,69.19,In Progress
+LRN-182,22,Female,Python Basics,May,40,17,11.65,4,49.71,3,3,65.6,In Progress
+LRN-183,31,Male,Excel for Business,Apr,45,12,8.92,4,61.1,4,4,51.72,Dropped
+LRN-184,37,Male,Machine Learning,Oct,80,54,22.68,14,63.83,8,4,74.93,In Progress
+LRN-185,31,Female,Python Basics,Sep,40,31,19.62,9,64.32,5,4,77.95,In Progress
+LRN-186,30,Female,Excel for Business,Oct,45,28,17.09,6,59.95,4,4,77.21,In Progress
+LRN-187,22,Male,Excel for Business,Nov,45,35,13.96,14,68.79,7,5,80.7,In Progress
+LRN-188,28,Female,Machine Learning,Oct,80,40,23.86,14,65.54,4,4,79.53,In Progress
+LRN-189,24,Female,Machine Learning,Dec,80,54,22.09,27,74.52,9,3,91.49,In Progress
+LRN-190,26,Female,Data Analysis with Pandas,May,55,50,24.94,13,73.44,5,5,94.7,Completed
+LRN-191,37,Female,Python Basics,May,40,17,6.1,7,48.25,5,5,68.47,In Progress
+LRN-192,35,Male,Machine Learning,Apr,80,20,14.48,8,57.55,1,3,52.04,Dropped
+LRN-193,35,Male,Data Analysis with Pandas,Mar,55,45,32.56,14,75.95,8,4,93.24,In Progress
+LRN-194,28,Female,Machine Learning,Sep,80,61,39.34,25,81.52,4,4,85.53,In Progress
+LRN-195,44,Male,Web Development,Sep,65,53,43.59,21,72.59,6,3,81.14,In Progress
+LRN-196,20,Male,Python Basics,Oct,40,35,19.33,13,60.85,6,5,80.41,In Progress
+LRN-197,27,Female,Machine Learning,Mar,80,8,8.21,2,46.26,0,1,56.16,Dropped
+LRN-198,21,Male,Python Basics,Jun,40,24,10.5,7,74.41,8,4,79.95,In Progress
+LRN-199,27,Female,Excel for Business,Mar,45,24,13.86,7,61.44,3,3,80.8,In Progress
+LRN-200,44,Male,Data Analysis with Pandas,Nov,55,28,15.8,7,60.73,5,3,71.06,In Progress
+LRN-201,28,Male,Machine Learning,Apr,80,55,35.84,17,68.27,8,5,100.0,In Progress
+LRN-202,43,Male,Machine Learning,Feb,80,70,48.35,16,93.39,7,5,100.0,In Progress
+LRN-203,31,Female,Data Analysis with Pandas,Jul,55,18,7.81,7,46.88,3,2,57.17,Dropped
+LRN-204,37,Male,Web Development,Nov,65,42,35.03,20,67.25,7,3,75.35,In Progress
+LRN-205,30,Female,Web Development,Nov,65,16,10.65,2,54.39,0,1,61.98,Dropped
+LRN-206,25,Female,Machine Learning,Feb,80,28,17.62,12,45.24,4,2,57.94,In Progress
+LRN-207,39,Female,Web Development,Apr,65,48,21.03,12,76.66,4,4,77.77,In Progress
+LRN-208,45,Male,Excel for Business,Feb,45,7,4.83,3,51.15,0,3,57.81,Dropped
+LRN-209,25,Female,Data Analysis with Pandas,Apr,55,53,27.98,14,85.43,9,4,100.0,Completed
+LRN-210,39,Male,Machine Learning,Jul,80,70,31.2,29,78.39,5,5,96.6,In Progress
+LRN-211,25,Male,Python Basics,Apr,40,30,10.16,8,63.82,4,3,72.94,In Progress
+LRN-212,38,Female,Web Development,Jan,65,28,27.13,14,56.13,5,3,69.61,In Progress
+LRN-213,40,Female,Machine Learning,Jul,80,48,24.78,16,63.86,3,3,74.16,In Progress
+LRN-214,30,Female,Data Analysis with Pandas,Jan,55,37,13.1,11,55.44,2,4,74.59,In Progress
+LRN-215,38,Male,Python Basics,Mar,40,21,7.34,6,65.31,7,5,80.11,In Progress
+LRN-216,25,Male,Excel for Business,Jan,45,40,22.66,16,83.45,11,4,96.06,In Progress
+LRN-217,20,Female,Data Analysis with Pandas,Feb,55,27,20.15,13,70.58,2,3,83.0,In Progress
+LRN-218,20,Male,Web Development,Jun,65,43,27.35,15,71.31,5,5,86.08,In Progress
+LRN-219,30,Female,Python Basics,Nov,40,21,13.59,11,68.33,5,2,70.5,In Progress
+LRN-220,43,Male,Excel for Business,Oct,45,20,9.53,9,56.87,5,3,70.2,In Progress
+LRN-221,21,Male,Python Basics,Feb,40,32,22.28,11,66.99,5,5,92.08,In Progress
+LRN-222,30,Male,Python Basics,Jan,40,28,10.19,9,71.67,9,4,91.91,In Progress
+LRN-223,37,Male,Excel for Business,May,45,17,8.07,5,51.67,2,3,66.19,In Progress
+LRN-224,23,Male,Excel for Business,Aug,45,30,11.17,8,65.28,4,5,73.65,In Progress
+LRN-225,38,Female,Python Basics,Sep,40,37,12.93,16,68.44,11,5,86.44,Completed
+LRN-226,26,Female,Data Analysis with Pandas,Oct,55,27,19.09,10,54.67,3,3,70.64,In Progress
+LRN-227,40,Female,Web Development,May,65,50,34.69,17,76.68,4,4,96.66,In Progress
+LRN-228,34,Male,Excel for Business,Mar,45,25,20.11,11,72.36,7,3,80.05,In Progress
+LRN-229,33,Male,Data Analysis with Pandas,Jan,55,44,25.13,23,66.04,7,5,86.76,In Progress
+LRN-230,22,Male,Machine Learning,Feb,80,54,35.43,22,75.96,5,3,85.11,In Progress
+LRN-231,30,Male,Web Development,Jan,65,43,16.03,15,63.61,7,4,74.78,In Progress
+LRN-232,41,Female,Web Development,Nov,65,30,19.74,15,61.4,4,3,68.26,In Progress
+LRN-233,18,Male,Web Development,Apr,65,36,19.9,17,74.18,5,3,77.06,In Progress
+LRN-234,39,Female,Machine Learning,Oct,80,78,47.57,23,87.82,6,5,100.0,Completed
+LRN-235,31,Female,Python Basics,Jul,40,10,8.16,3,58.06,3,4,56.67,Dropped
+LRN-236,38,Male,Excel for Business,Jul,45,39,17.13,15,82.82,4,4,86.11,In Progress
+LRN-237,36,Male,Excel for Business,Jun,45,30,13.39,9,62.69,8,3,71.44,In Progress
+LRN-238,30,Male,Web Development,Oct,65,44,17.42,9,59.37,5,4,79.1,In Progress
+LRN-239,26,Female,Python Basics,Jan,40,16,12.34,2,52.8,4,3,71.09,In Progress
+LRN-240,35,Male,Python Basics,Feb,40,15,9.91,4,54.84,4,4,71.78,In Progress
+LRN-241,21,Female,Web Development,Jun,65,32,12.24,7,42.48,3,3,62.97,In Progress
+LRN-242,34,Male,Python Basics,May,40,17,4.38,5,55.62,5,3,66.23,In Progress
+LRN-243,20,Male,Excel for Business,Jul,45,20,11.03,8,55.55,5,2,64.39,In Progress
+LRN-244,36,Female,Data Analysis with Pandas,Sep,55,46,24.01,17,81.61,10,3,94.64,In Progress
+LRN-245,35,Female,Web Development,Aug,65,17,5.82,6,54.55,3,1,58.63,Dropped
+LRN-246,20,Female,Excel for Business,Apr,45,40,14.44,8,69.49,9,5,86.23,In Progress
+LRN-247,39,Male,Data Analysis with Pandas,Apr,55,23,8.67,7,62.26,5,2,66.57,In Progress
+LRN-248,29,Female,Data Analysis with Pandas,Oct,55,12,5.89,4,55.31,2,3,57.67,Dropped
+LRN-249,40,Male,Machine Learning,Mar,80,18,6.02,8,45.06,2,2,50.56,Dropped
+LRN-250,19,Male,Machine Learning,Jul,80,21,8.41,6,47.58,1,2,52.54,Dropped
+LRN-251,23,Male,Data Analysis with Pandas,Jul,55,14,11.22,8,36.06,1,2,61.63,Dropped
+LRN-252,31,Female,Machine Learning,Oct,80,55,21.3,31,59.95,5,4,92.69,In Progress
+LRN-253,23,Male,Excel for Business,Sep,45,45,22.3,15,71.35,7,4,83.04,Completed
+LRN-254,27,Female,Data Analysis with Pandas,Jun,55,29,20.93,8,64.48,5,3,65.54,In Progress
+LRN-255,36,Male,Python Basics,Apr,40,24,11.3,8,59.85,9,4,68.4,In Progress
+LRN-256,22,Male,Data Analysis with Pandas,May,55,37,17.66,14,63.55,6,4,76.11,In Progress
+LRN-257,36,Male,Data Analysis with Pandas,May,55,25,17.17,8,50.93,3,3,69.91,In Progress
+LRN-258,20,Male,Python Basics,Mar,40,23,10.27,9,62.32,4,4,73.38,In Progress
+LRN-259,22,Female,Python Basics,Aug,40,21,16.61,4,67.48,7,3,75.21,In Progress
+LRN-260,34,Male,Web Development,Mar,65,43,26.32,12,71.24,5,4,83.54,In Progress
+LRN-261,40,Female,Data Analysis with Pandas,Aug,55,31,18.49,11,65.06,6,3,70.19,In Progress
+LRN-262,22,Female,Excel for Business,Oct,45,41,25.57,14,65.62,8,5,86.49,Completed
+LRN-263,26,Female,Data Analysis with Pandas,Dec,55,23,12.37,6,53.02,3,3,62.54,In Progress
+LRN-264,43,Female,Python Basics,Feb,40,26,20.12,11,65.38,7,5,68.64,In Progress
+LRN-265,45,Female,Web Development,Oct,65,31,15.45,10,58.49,5,3,61.4,In Progress
+LRN-266,34,Female,Excel for Business,Feb,45,33,19.44,15,71.3,8,4,76.0,In Progress
+LRN-267,30,Female,Data Analysis with Pandas,May,55,44,25.58,14,84.84,9,5,95.61,In Progress
+LRN-268,27,Male,Python Basics,Mar,40,40,25.25,17,83.95,8,5,96.95,Completed
+LRN-269,35,Male,Python Basics,Feb,40,4,1.39,2,37.68,0,1,47.43,Dropped
+LRN-270,34,Female,Machine Learning,Mar,80,29,20.12,11,62.16,2,3,54.15,In Progress
+LRN-271,26,Female,Data Analysis with Pandas,Jan,55,8,3.02,4,53.23,3,3,43.38,Dropped
+LRN-272,18,Female,Data Analysis with Pandas,Oct,55,27,9.12,12,55.11,6,3,70.69,In Progress
+LRN-273,22,Male,Python Basics,Jan,40,3,4.2,1,51.67,1,2,31.95,Dropped
+LRN-274,44,Female,Machine Learning,May,80,24,21.6,11,55.33,2,2,69.32,Dropped
+LRN-275,29,Female,Excel for Business,Sep,45,32,20.39,11,60.68,8,4,68.48,In Progress
+LRN-276,31,Female,Machine Learning,Dec,80,25,16.77,10,59.46,3,4,67.89,Dropped
+LRN-277,31,Female,Machine Learning,Nov,80,65,39.08,30,79.54,8,4,87.81,In Progress
+LRN-278,39,Female,Python Basics,Feb,40,29,8.59,9,63.26,5,3,80.88,In Progress
+LRN-279,19,Male,Data Analysis with Pandas,Dec,55,38,9.42,11,67.67,9,5,97.57,In Progress
+LRN-280,20,Male,Data Analysis with Pandas,Aug,55,36,20.77,13,62.58,6,4,63.24,In Progress
+LRN-281,25,Male,Web Development,Mar,65,43,17.62,16,72.06,7,5,83.76,In Progress
+LRN-282,31,Male,Excel for Business,Jun,45,40,18.65,12,74.57,9,4,77.71,In Progress
+LRN-283,36,Male,Excel for Business,Dec,45,42,22.12,13,77.09,8,5,93.31,Completed
+LRN-284,31,Female,Excel for Business,May,45,44,30.31,15,82.6,9,4,95.56,Completed
+LRN-285,30,Male,Excel for Business,Mar,45,20,6.72,2,50.08,5,3,63.26,In Progress
+LRN-286,44,Male,Excel for Business,Nov,45,30,16.62,12,63.16,9,3,73.07,In Progress
+LRN-287,22,Female,Python Basics,Dec,40,18,14.36,5,43.15,3,3,66.07,In Progress
+LRN-288,34,Male,Python Basics,Dec,40,14,6.72,4,58.24,3,3,51.83,In Progress
+LRN-289,33,Female,Data Analysis with Pandas,Dec,55,12,9.24,5,43.6,3,2,60.94,Dropped
+LRN-290,31,Male,Machine Learning,Nov,80,9,5.23,2,47.77,1,2,46.44,Dropped
+LRN-291,40,Male,Python Basics,Jun,40,13,8.74,2,55.09,1,2,49.53,Dropped
+LRN-292,25,Male,Web Development,Mar,65,5,3.22,0,48.81,0,2,56.36,Dropped
+LRN-293,44,Male,Machine Learning,Aug,80,49,35.27,13,63.22,7,3,80.63,In Progress
+LRN-294,27,Male,Machine Learning,Mar,80,41,26.78,13,63.92,4,4,84.93,In Progress
+LRN-295,33,Male,Python Basics,Jun,40,31,11.7,9,82.12,9,5,92.73,In Progress
+LRN-296,32,Male,Data Analysis with Pandas,Aug,55,40,28.7,17,86.14,9,5,85.5,In Progress
+LRN-297,41,Female,Python Basics,Dec,40,10,4.82,5,58.46,3,1,56.71,Dropped
+LRN-298,30,Male,Excel for Business,Apr,45,17,9.37,5,58.0,3,2,62.75,In Progress
+LRN-299,25,Male,Machine Learning,Apr,80,31,18.72,10,53.23,5,3,74.53,In Progress
+LRN-300,18,Female,Web Development,Sep,65,22,13.45,9,59.14,1,3,63.5,Dropped
+LRN-301,28,Female,Data Analysis with Pandas,Jan,55,27,13.84,11,60.07,5,2,69.78,In Progress
+LRN-302,41,Male,Data Analysis with Pandas,Jul,55,40,16.95,11,72.97,7,4,80.28,In Progress
+LRN-303,18,Female,Data Analysis with Pandas,Sep,55,21,5.65,3,49.35,2,3,57.5,In Progress
+LRN-304,43,Female,Web Development,Jul,65,28,16.46,8,57.58,3,4,73.35,In Progress
+LRN-305,33,Female,Web Development,May,65,60,34.88,26,81.32,9,4,96.3,Completed
+LRN-306,21,Female,Python Basics,Oct,40,16,12.29,9,59.57,4,4,62.4,In Progress
+LRN-307,26,Female,Excel for Business,May,45,29,16.55,10,68.77,5,3,72.88,In Progress
+LRN-308,33,Male,Python Basics,Sep,40,15,5.94,5,50.56,3,2,55.52,In Progress
+LRN-309,26,Female,Excel for Business,Jun,45,21,11.69,4,48.84,3,3,54.24,In Progress
+LRN-310,21,Male,Python Basics,Jan,40,21,8.34,9,69.96,3,4,64.69,In Progress
+LRN-311,36,Male,Data Analysis with Pandas,Jul,55,38,25.81,8,86.35,5,3,94.26,In Progress
+LRN-312,36,Female,Web Development,Jan,65,32,12.92,14,63.18,4,3,67.31,In Progress
+LRN-313,21,Female,Python Basics,Dec,40,21,17.65,9,54.62,6,3,74.31,In Progress
+LRN-314,25,Male,Data Analysis with Pandas,Aug,55,46,18.22,18,67.29,8,4,69.25,In Progress
+LRN-315,24,Female,Data Analysis with Pandas,May,55,33,16.6,9,68.81,6,4,79.26,In Progress
+LRN-316,36,Female,Data Analysis with Pandas,Jun,55,27,14.34,10,72.5,7,3,72.98,In Progress
+LRN-317,38,Male,Web Development,Aug,65,39,15.9,15,55.66,5,3,68.27,In Progress
+LRN-318,38,Male,Excel for Business,Apr,45,37,22.39,10,71.79,7,4,86.53,In Progress
+LRN-319,44,Male,Excel for Business,Apr,45,25,19.12,13,64.55,4,3,69.59,In Progress
+LRN-320,39,Female,Data Analysis with Pandas,Jun,55,37,16.05,13,73.65,7,5,67.13,In Progress
+LRN-321,26,Male,Machine Learning,Apr,80,67,41.22,27,78.56,10,5,100.0,In Progress
+LRN-322,21,Male,Data Analysis with Pandas,Oct,55,34,2.86,3,49.05,4,3,66.56,In Progress
+LRN-323,35,Female,Data Analysis with Pandas,Feb,55,44,24.58,21,80.73,11,4,89.3,In Progress
+LRN-324,43,Male,Python Basics,Oct,40,31,19.53,15,81.39,10,3,82.55,In Progress
+LRN-325,45,Female,Excel for Business,May,45,30,14.84,12,62.94,3,3,64.32,In Progress
+LRN-326,24,Female,Excel for Business,Jul,45,21,16.03,9,63.19,4,4,70.11,In Progress
+LRN-327,24,Male,Web Development,Feb,65,20,9.89,8,51.82,4,3,68.97,Dropped
+LRN-328,19,Female,Machine Learning,May,80,25,10.18,9,48.5,3,4,59.0,Dropped
+LRN-329,21,Female,Machine Learning,Oct,80,44,19.73,16,68.61,2,3,63.83,In Progress
+LRN-330,33,Male,Machine Learning,Apr,80,44,13.47,12,66.88,7,3,75.12,In Progress
+LRN-331,33,Male,Machine Learning,Feb,80,15,4.52,5,50.82,0,3,50.52,Dropped
+LRN-332,28,Male,Data Analysis with Pandas,Jul,55,37,24.64,16,79.61,6,2,88.5,In Progress
+LRN-333,26,Male,Python Basics,Feb,40,20,4.42,9,50.45,4,3,66.29,In Progress
+LRN-334,41,Male,Python Basics,Apr,40,14,4.5,3,48.9,2,2,38.53,In Progress
+LRN-335,30,Female,Excel for Business,Jun,45,38,16.78,11,72.68,7,5,87.9,In Progress
+LRN-336,40,Female,Machine Learning,Jul,80,36,29.14,11,57.01,1,4,62.08,In Progress
+LRN-337,44,Female,Excel for Business,Aug,45,34,21.28,15,76.36,7,3,75.99,In Progress
+LRN-338,26,Female,Python Basics,Sep,40,18,7.28,3,56.23,4,4,62.6,In Progress
+LRN-339,23,Male,Machine Learning,Nov,80,15,10.01,5,45.58,4,2,56.68,Dropped
+LRN-340,44,Female,Python Basics,Jan,40,27,12.63,12,67.15,7,3,67.25,In Progress
+LRN-341,35,Female,Data Analysis with Pandas,May,55,25,17.19,9,60.7,3,3,71.51,In Progress
+LRN-342,26,Female,Python Basics,Jan,40,17,5.62,5,62.17,3,3,67.97,In Progress
+LRN-343,35,Female,Python Basics,Jan,40,12,9.43,5,56.69,3,3,59.78,Dropped
+LRN-344,32,Male,Excel for Business,Mar,45,36,17.39,12,78.5,12,4,83.99,In Progress
+LRN-345,43,Female,Data Analysis with Pandas,Aug,55,20,7.5,4,57.94,4,3,55.98,In Progress
+LRN-346,25,Female,Machine Learning,Nov,80,55,29.16,26,71.17,8,5,90.48,In Progress
+LRN-347,45,Female,Data Analysis with Pandas,Oct,55,43,26.44,11,66.99,6,5,74.31,In Progress
+LRN-348,44,Male,Data Analysis with Pandas,Aug,55,38,17.86,14,69.62,6,4,85.38,In Progress
+LRN-349,23,Male,Machine Learning,Oct,80,75,47.6,26,79.92,7,5,97.52,Completed
+LRN-350,22,Male,Python Basics,Mar,40,29,12.24,9,79.51,7,4,81.26,In Progress
+LRN-351,32,Female,Excel for Business,Nov,45,36,21.86,12,79.62,5,4,75.0,In Progress
+LRN-352,19,Female,Web Development,Nov,65,17,11.63,9,58.14,3,3,58.61,Dropped
+LRN-353,26,Male,Web Development,Feb,65,45,25.01,17,75.88,10,4,89.81,In Progress
+LRN-354,30,Male,Data Analysis with Pandas,Jun,55,39,19.55,11,68.76,7,4,72.55,In Progress
+LRN-355,45,Male,Python Basics,Oct,40,22,13.02,7,52.52,4,4,70.2,In Progress
+LRN-356,45,Male,Excel for Business,Jun,45,32,20.31,11,67.22,6,5,80.16,In Progress
+LRN-357,22,Male,Data Analysis with Pandas,Nov,55,24,21.67,16,62.88,5,3,66.46,In Progress
+LRN-358,42,Female,Python Basics,Dec,40,31,22.82,12,72.45,6,4,88.76,In Progress
+LRN-359,20,Female,Data Analysis with Pandas,Jun,55,19,14.6,6,58.77,2,3,48.9,Dropped
+LRN-360,38,Male,Web Development,Jan,65,52,52.54,26,86.16,6,5,99.17,In Progress
+LRN-361,41,Female,Machine Learning,May,80,15,11.49,3,47.2,3,3,64.03,Dropped
+LRN-362,42,Male,Web Development,Mar,65,65,40.82,20,76.95,7,5,100.0,Completed
+LRN-363,24,Male,Web Development,Jun,65,28,19.31,16,71.54,5,3,74.22,In Progress
+LRN-364,43,Male,Python Basics,Aug,40,14,6.0,5,62.18,6,3,62.0,In Progress
+LRN-365,21,Male,Excel for Business,Jun,45,38,18.74,7,71.19,9,4,82.58,In Progress
+LRN-366,32,Male,Data Analysis with Pandas,Mar,55,41,18.33,13,69.08,7,4,79.5,In Progress
+LRN-367,31,Male,Machine Learning,Apr,80,45,30.17,24,64.8,3,4,78.61,In Progress
+LRN-368,26,Male,Python Basics,Sep,40,27,18.41,11,66.73,5,3,72.26,In Progress
+LRN-369,18,Male,Excel for Business,Jan,45,27,14.85,8,68.07,6,4,79.66,In Progress
+LRN-370,39,Female,Data Analysis with Pandas,Mar,55,17,12.23,6,71.77,2,4,76.82,Dropped
+LRN-371,27,Male,Python Basics,Nov,40,38,25.15,12,79.37,9,5,93.2,Completed
+LRN-372,36,Male,Data Analysis with Pandas,Feb,55,46,23.45,17,77.9,7,4,79.8,In Progress
+LRN-373,29,Female,Python Basics,May,40,31,16.25,13,56.29,5,4,68.27,In Progress
+LRN-374,28,Female,Python Basics,Mar,40,34,23.48,15,71.08,8,4,91.81,In Progress
+LRN-375,42,Male,Machine Learning,Feb,80,39,25.27,16,72.0,4,2,74.23,In Progress
+LRN-376,20,Male,Data Analysis with Pandas,Jun,55,8,0.1,1,48.04,0,2,52.82,Dropped
+LRN-377,38,Female,Excel for Business,Jul,45,9,3.39,3,17.53,1,2,39.12,Dropped
+LRN-378,38,Female,Data Analysis with Pandas,Mar,55,33,16.41,13,69.91,6,5,81.08,In Progress
+LRN-379,28,Female,Web Development,Jan,65,12,8.95,4,62.89,1,3,55.31,Dropped
+LRN-380,25,Female,Data Analysis with Pandas,Feb,55,41,32.35,13,60.69,8,4,79.57,In Progress
+LRN-381,18,Male,Machine Learning,Aug,80,22,12.49,9,65.78,4,3,60.66,Dropped
+LRN-382,44,Female,Machine Learning,Nov,80,50,29.39,12,49.98,6,4,67.93,In Progress
+LRN-383,44,Female,Machine Learning,Mar,80,43,25.41,12,70.21,3,3,86.67,In Progress
+LRN-384,24,Male,Excel for Business,Apr,45,16,6.09,4,54.17,3,2,58.77,In Progress
+LRN-385,18,Female,Data Analysis with Pandas,May,55,38,21.36,15,52.13,6,3,79.02,In Progress
+LRN-386,21,Female,Python Basics,May,40,35,18.93,17,76.87,8,4,84.88,In Progress
+LRN-387,19,Male,Web Development,Mar,65,62,32.83,27,90.13,11,3,94.28,Completed
+LRN-388,41,Male,Web Development,Jan,65,25,6.41,9,58.4,4,2,60.84,In Progress
+LRN-389,42,Male,Python Basics,Jul,40,25,13.4,7,69.89,7,4,83.3,In Progress
+LRN-390,22,Male,Data Analysis with Pandas,May,55,31,16.97,8,60.77,5,3,68.76,In Progress
+LRN-391,38,Female,Excel for Business,May,45,38,18.55,12,59.94,8,4,77.17,In Progress
+LRN-392,23,Male,Web Development,Apr,65,17,8.42,6,58.56,4,2,60.38,Dropped
+LRN-393,28,Male,Excel for Business,Dec,45,33,18.66,13,83.71,9,5,89.76,In Progress
+LRN-394,34,Male,Machine Learning,Aug,80,33,13.4,6,67.24,5,3,78.25,In Progress
+LRN-395,38,Male,Machine Learning,Jun,80,50,12.61,15,50.77,6,3,72.42,In Progress
+LRN-396,42,Male,Data Analysis with Pandas,Mar,55,34,16.26,17,53.15,4,4,74.13,In Progress
+LRN-397,19,Male,Excel for Business,Oct,45,24,17.09,9,56.2,4,3,73.31,In Progress
+LRN-398,23,Female,Data Analysis with Pandas,Nov,55,27,22.14,6,53.25,6,3,63.18,In Progress
+LRN-399,25,Male,Web Development,Jan,65,23,16.23,14,57.34,3,2,57.45,In Progress
+LRN-400,26,Female,Data Analysis with Pandas,Dec,55,44,14.41,15,71.79,6,5,75.12,In Progress
+LRN-401,45,Male,Machine Learning,Sep,80,72,38.85,28,67.16,5,4,81.67,Completed
+LRN-402,39,Male,Web Development,Feb,65,46,28.46,17,77.28,7,3,90.36,In Progress
+LRN-403,26,Male,Machine Learning,Oct,80,73,42.76,24,88.16,11,5,100.0,Completed
+LRN-404,45,Male,Excel for Business,Feb,45,8,6.44,1,45.68,2,2,51.78,Dropped
+LRN-405,31,Female,Data Analysis with Pandas,Jan,55,27,12.26,15,60.43,6,2,53.59,In Progress
+LRN-406,32,Male,Machine Learning,Feb,80,56,30.69,25,56.84,5,4,91.05,In Progress
+LRN-407,30,Male,Data Analysis with Pandas,Jun,55,38,21.28,18,67.13,7,4,74.76,In Progress
+LRN-408,22,Female,Data Analysis with Pandas,Aug,55,44,30.28,18,75.33,8,5,100.0,In Progress
+LRN-409,44,Female,Data Analysis with Pandas,May,55,18,8.54,4,54.57,2,4,49.91,Dropped
+LRN-410,18,Female,Python Basics,Feb,40,37,20.07,17,79.62,10,5,87.34,Completed
+LRN-411,22,Male,Python Basics,Mar,40,19,1.34,7,58.13,4,4,49.96,In Progress
+LRN-412,24,Male,Machine Learning,Nov,80,39,16.45,12,60.88,6,5,72.61,In Progress
+LRN-413,25,Male,Machine Learning,Dec,80,79,37.93,14,87.15,12,5,96.42,Completed
+LRN-414,21,Female,Machine Learning,Oct,80,45,17.76,9,72.66,7,3,70.59,In Progress
+LRN-415,18,Male,Python Basics,Feb,40,28,13.27,11,66.75,7,4,69.63,In Progress
+LRN-416,36,Female,Data Analysis with Pandas,Oct,55,17,9.77,3,59.16,6,2,67.61,Dropped
+LRN-417,45,Male,Python Basics,Sep,40,28,3.13,4,64.17,8,4,79.18,In Progress
+LRN-418,21,Female,Web Development,Jul,65,35,18.96,14,58.23,4,3,81.14,In Progress
+LRN-419,26,Male,Excel for Business,Feb,45,40,18.46,23,74.88,5,5,81.28,In Progress
+LRN-420,32,Male,Data Analysis with Pandas,Dec,55,45,30.77,24,72.83,9,4,91.04,In Progress
